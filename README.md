@@ -1,6 +1,6 @@
 Welcome to Taban Hamad's profile! 
 
-I enjoy programming and work as a Post-Secondary Instructor at Mohawk College in Hamilton, Ontario, Canada.
+I work as a Post-Secondary Instructor at Mohawk College in Hamilton, Ontario, Canada.
 
 👨‍💻 Programming languages
 
